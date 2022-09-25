@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "lang_switches",
+  "info": {
+    "singularName": "lang-switch",
+    "pluralName": "lang-switches",
+    "displayName": "LangSwitch",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "lang": {
+      "type": "string"
+    },
+    "langLabel": {
+      "type": "string"
+    }
+  }
+}

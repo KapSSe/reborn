@@ -1,0 +1,9 @@
+'use strict';
+
+/**
+ * lang-switch service.
+ */
+
+const { createCoreService } = require('@strapi/strapi').factories;
+
+module.exports = createCoreService('api::lang-switch.lang-switch');

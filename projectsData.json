@@ -1,0 +1,30 @@
+{
+  "title": "ПРОЄКТИ",
+  "statuses": [
+    {
+      "key": "inProgress",
+      "value": "Актуальні",
+      "label": "В процессі"
+    },
+    {
+      "key": "done",
+      "value": "Виконані",
+      "label": "Виконано"
+    }
+  ],
+  "types": [
+    {
+      "key": "supportArmy",
+      "value": "Підтримка ЗСУ"
+    },
+    {
+      "key": "development",
+      "value": "Девелопмент"
+    },
+    {
+      "key": "socials",
+      "value": "Соціальна підтримка"
+    }
+  ],
+  "paginationButton": "Показати більше"
+}

@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "section_donations",
+  "info": {
+    "singularName": "section-donation",
+    "pluralName": "section-donations",
+    "displayName": "SectionDonations"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "donationsData": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "json"
+    }
+  }
+}
